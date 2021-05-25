@@ -25,7 +25,7 @@ export default class VaccineNews extends Component {
         method: 'GET',
         headers: {
           'x-rapidapi-key':
-            '77ea18d8dfmsh8d034a05d7c69e8p1bbad8jsnc7be0e59128d',
+            "Your Own Key",
           'x-rapidapi-host':
             'vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com',
         },
