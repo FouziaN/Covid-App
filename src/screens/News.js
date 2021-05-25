@@ -22,7 +22,7 @@ export default class News extends Component {
     fetch("https://vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com/api/news/get-coronavirus-news/0", {
       "method": "GET",
       "headers": {
-        "x-rapidapi-key": "77ea18d8dfmsh8d034a05d7c69e8p1bbad8jsnc7be0e59128d",
+        "x-rapidapi-key": "Your Own Key",
         "x-rapidapi-host": "vaccovid-coronavirus-vaccine-and-treatment-tracker.p.rapidapi.com"
       }
     })
